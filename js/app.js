@@ -108,7 +108,7 @@ const loadweb3 = async () => {
 
 //***************** get account *****************/
 
-var account = "⚡️ Подключи метамаск ⚡️";
+var account = "⚡️ Подключи метамаск что бы увидеть баланс⚡️";
   document.getElementById("address").innerHTML = account;
 
 
